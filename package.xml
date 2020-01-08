@@ -1,6 +1,6 @@
 <package format="2">
   <name>adrc_control</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <description>adrc control package</description>
 
   <maintainer email="lkw_nuaa@163.com">lkw</maintainer>
