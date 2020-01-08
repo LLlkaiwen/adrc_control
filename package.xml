@@ -12,5 +12,6 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <depend>cmake_modules</depend>
+  <depend>roscpp</depend>
 
 </package>
